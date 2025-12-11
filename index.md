@@ -1,4 +1,4 @@
-# Hi, I'm Siham 👋
+
 
 I’m a London-based **Data Scientist** with 10+ years of experience across marketing, pricing and customer analytics.  
 I like turning messy real-world data into **models, experiments and dashboards** that actually change decisions.
